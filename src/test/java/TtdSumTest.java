@@ -1,44 +1,42 @@
-
-import org.junit.After;
-import org.junit.Before;
-import org.junit.jupiter.api.Test;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TtdClassTest {
+class TtdSumTest {
 
     @Test
-    public void testEquals (){
+    public void testSum (){
+
         assertEquals(10, (5+5));
+
     }
 
     @Test
     public void testFail () {
+
         assertEquals(9, (5-3));
     }
 
+
     @Test
-    @BeforeClass
+    @BeforeAll
     public static void setUpClass() {
     }
 
     @Test
-    @AfterClass
+    @AfterAll
     public static void tearDownClass() {
     }
 
     @Test
-    @Before
+    @BeforeEach
     public void setUp() {
     }
 
     @Test
-    @After
+    @AfterEach
     public void tearDown() {
     }
-
 
 
 
