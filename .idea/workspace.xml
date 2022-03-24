@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ebccebf-aae7-4f51-9da2-e011a7e61842" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6ebccebf-aae7-4f51-9da2-e011a7e61842" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Compute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TtdSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ComputeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProgramTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TtdSumTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648036856941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1648125751612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648125751612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +151,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="218325991" />
+                        <option value="218250142" />
                       </list>
                     </value>
                   </entry>
@@ -152,5 +162,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
